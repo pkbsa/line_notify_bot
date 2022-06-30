@@ -1,8 +1,8 @@
-pip3 i datetime /n
-pip3 i time /n
-pip3 i pytz /n
-pip3 i flask /n
-pip3 i threading /n
+pip3 i datetime 
+pip3 i time 
+pip3 i pytz
+pip3 i flask 
+pip3 i threading 
 
 monitor : 
 https://uptimerobot.com/dashboard#mainDashboard
