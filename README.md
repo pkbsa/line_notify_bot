@@ -10,8 +10,9 @@ pip3 i flask  <br>
 pip3 i threading  <br>
 </p>
 <p> In order to make it notify like the schedule that you like you will need to edit the python code </p>
+<img src="./readme/python.png"></img>
 
-<p> in order to make your python code run 24/7 you need to launch it at (https://replit.com/) and monitor it using the monitor website example postman or uptimerobot</p>
+<p> to make your python code run 24/7 you need to launch it at (https://replit.com/) and monitor it using the monitor website example postman or uptimerobot</p>
 <img src="./readme/uptime.png"></img>
 
 monitor : 
